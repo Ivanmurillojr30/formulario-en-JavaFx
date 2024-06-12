@@ -4,7 +4,7 @@
 
 # Descripción
 Este proyecto es una aplicación JavaFX que demuestra el uso de diversos controles de interfaz de usuario en un formulario. La aplicación organiza los controles en un GridPane para crear una interfaz gráfica de usuario (GUI) intuitiva y estructurada.
- # Ilustracion d elo ejecutado 
+ # Ilustracion de lo ejecutado 
 
 ![image](https://github.com/Ivanmurillojr30/formulario-en-JavaFx/assets/168851753/0d7c1b3b-08d9-4c7f-8507-a233d3825e6e)
 
